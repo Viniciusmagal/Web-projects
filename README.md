@@ -53,4 +53,4 @@
     </a>
 </p>
 
-![Vinicius Magalhães](https://photos.app.goo.gl/hAvFQf2Ys5eNEqVJ6)
+
