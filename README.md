@@ -33,6 +33,18 @@
     </a>
 </p>
 
+## Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas**
+  - Escola: ETEC Prof. Carmine Biagio Tundisi
+  - Período: 2022 - 2024
+  - Habilidades: CSS, Trabalho em equipe, MySQL, Desenvolvimento Java, Atividades de integração em equipe, Banco de dados, Análise de projeto de sistema, HTML5, PHP
+
+- **Inteligência Artificial AI-900**
+  - Escola: SENAI Bragança Paulista
+  - Período: Ago 2023 - Out 2023
+  - Habilidades: Azure DevOps Server, Azure DevOps, Microsoft Azure Machine Learning, AI-900
+
 ## Social
 
 <p align="left">
