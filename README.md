@@ -4,7 +4,7 @@
 
 📧 Entre em contato comigo:
     <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20" margin-top="10"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20" margin-top="30"/>
     </a>
 
 ## Linguagens e Ferramentas
