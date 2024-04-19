@@ -51,6 +51,7 @@
     <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
     </a>
+    <br><br>
     <a href="https://www.linkedin.com/in/vinicius-magalhães-5137402b9/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
