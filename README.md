@@ -3,9 +3,12 @@
 👨‍💻 Estudante de programação na USF | Desenvolvedor
 
 📧 Entre em contato comigo:
+
+<p align="left">
     <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
     </a>
+</p>
 
 ## Linguagens e Ferramentas
 
@@ -51,9 +54,6 @@
 ## Social
 
 <p align="left">
-    <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
-    </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/vinicius-magalhães-5137402b9/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
