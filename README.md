@@ -6,11 +6,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
     </a>
 
-<p align="left">
-    <a href="mailto:lucavimagal@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"/>
-    </a>
-</p>
+
 
 ## Linguagens e Ferramentas
 
