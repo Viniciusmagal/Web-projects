@@ -48,10 +48,12 @@
   - Escola: SENAI Bragança Paulista
   - Período: Ago 2023 - Out 2023
   - Habilidades: Azure DevOps Server, Azure DevOps, Microsoft Azure Machine Learning, AI-900
- 
-  - ## GitHub Stats
 
-![Vinicius Magalhães' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusMagal)
+## GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMagal&show_icons=true&theme=radical" alt="Vinicius Magalhães' GitHub Stats" />
+</p>
 
 ## Social
 
@@ -61,4 +63,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
 </p>
-
